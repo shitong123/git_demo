@@ -9,4 +9,5 @@ github had update
 study update
 ssh update
 ok
+study ssh commit
 
