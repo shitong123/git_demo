@@ -6,4 +6,4 @@ ewrwer
 33333  dev
 44444  master
 github had update
-study2 update
+study update
